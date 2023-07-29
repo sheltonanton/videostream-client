@@ -1,0 +1,9 @@
+.camera-recorder {
+  display: flex;
+  flex-direction: column;
+}
+
+.camera-recorder-actions {
+  display: flex;
+  flex-direction: row;
+}
